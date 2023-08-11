@@ -2,6 +2,3 @@ biopython
 streamlit
 pandas
 matplotlib
-io
-
-
